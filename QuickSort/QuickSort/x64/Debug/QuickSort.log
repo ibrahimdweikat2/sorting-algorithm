@@ -1,0 +1,3 @@
+﻿  QuickSort.cpp
+C:\Users\a-z\Desktop\C#_Projects\QuickSort\QuickSort\QuickSort.cpp(28,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  QuickSort.vcxproj -> C:\Users\a-z\Desktop\C#_Projects\QuickSort\x64\Debug\QuickSort.exe

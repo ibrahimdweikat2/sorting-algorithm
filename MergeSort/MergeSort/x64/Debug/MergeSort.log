@@ -1,0 +1,6 @@
+﻿  MergeSort.cpp
+C:\Users\a-z\Desktop\C#_Projects\MergeSort\MergeSort\MergeSort.cpp(74,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\a-z\Desktop\C#_Projects\MergeSort\MergeSort\MergeSort.cpp(79,18): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\a-z\Desktop\C#_Projects\MergeSort\MergeSort\MergeSort.cpp(81,29): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\a-z\Desktop\C#_Projects\MergeSort\MergeSort\MergeSort.cpp(84,18): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  MergeSort.vcxproj -> C:\Users\a-z\Desktop\C#_Projects\MergeSort\x64\Debug\MergeSort.exe
